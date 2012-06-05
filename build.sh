@@ -1,0 +1,1 @@
+cd config && node ../lib/optimizer/r.js -o ../config/build_profile.js
