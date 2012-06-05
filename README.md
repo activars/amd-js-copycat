@@ -9,3 +9,10 @@ If you prefer to develop JavaScript with AMD module, this repository helps you t
 * I want the final JavaScript to be loaded on a site that may or may not have requireJS available
 * I want the final JavaScript to be requirable
 
+## Prerequisite
+Almond.js is used to build smaller footprint AMD moduler JavaScript. It requires `node` and `npm` After the nmp is installed, run the following command to install latest `requirejs`.
+
+```
+npm install requirejs
+```
+
