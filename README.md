@@ -7,5 +7,5 @@ If you prefer to develop JavaScript with AMD module, this repository helps you t
 * I want to write in a modular way
 * I want to use AMD
 * I want the final JavaScript to be loaded on a site that may or may not have requireJS available
-* I want the final JavaScript is requirable
+* I want the final JavaScript to be requirable
 
