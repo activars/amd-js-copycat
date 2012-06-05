@@ -1,6 +1,6 @@
 # AMD JS Copycat
 
-If you prefer to develop JavaScript with AMD module, this repository helps you to setup the project and create initial file structures.
+If you prefer to develop JavaScript with AMD module, this repository helps you to setup the project and create initial file structures. The idea is to copy or fork this repository to start your own without repetitive setup.
 
 ## When should I use this?
 * I only write pure javascript without template and css files
